@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a number of interesting projects**
 
-- 🌱 I’m currently learning **full-stack web development**
+- 🌱 I’m currently learning **full-stack web development, ReactJS**
 
-- 👯 I’m looking to collaborate on **any meaningful projects with a motivated, dedicated team**
+- 👯 I’m looking to collaborate on **any meaningful projects with a motivated, dedicated team - if it makes a difference in the lives of real people, I want in**
 
 - 👨‍💻 All of my projects are available at [edwardbenedetto.com](edwardbenedetto.com)
 
