@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
 
-- 🔭 I’m currently working on **a number of interesting projects**
+- 🔭 I’m currently working on **creating tools that help real people with real problems**
 
-- 🌱 I’m currently learning **full-stack web development, ReactJS**
+- 🌱 I’m currently learning **ReactJS, Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **any meaningful projects with a motivated, dedicated team - if it makes a difference in the lives of real people, I want in**
+- 👯 I’m looking to collaborate on **any meaningful projects with a motivated, dedicated team - if it makes a difference in the lives of real people, I want to be a part of the project**
 
 - 👨‍💻 All of my projects are available at [edwardbenedetto.com](edwardbenedetto.com)
 
