@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any meaningful projects with a motivated, dedicated team - if it makes a difference in the lives of real people, I want to be a part of the project**
 
-- 👨‍💻 All of my projects are available at [edwardbenedetto.com](edwardbenedetto.com)
+- 👨‍💻 Selected works available at [edwardbenedetto.com](edwardbenedetto.com)
 
 - ⚡ Fun fact **10 years of NYC fashion experience**
 
