@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Edward</h1>
 <h3 align="center">A software engineer passionate about  helping people and serving communities through full-stack web applications</h3>
 
-- 🔭 I’m currently working on **creating tools that help real people with real problems**
+- 🔭 I’m currently working on two (currently unnamed) apps - one helping teachers manage their student workload, and the other dealing with machine learning APIs
 
 - 🌱 I’m currently learning **ReactJS, Data Structures and Algorithms**
 
