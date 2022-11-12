@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Personal project - full stack web app to manage personal collections, check market value, buy/sell/interact with other users</p>
+        <p>Full stack web app to manage personal collections, check market value, buy/sell/interact with other users</p>
     </td>
       <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
