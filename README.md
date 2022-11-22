@@ -73,7 +73,8 @@
     </td>
      </tr>
   
-    <tr>
+  
+       <tr>
       <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
@@ -92,7 +93,7 @@
       </p>
         <p>Coming soon...</p>
     </td>
-      <td width="50%" valign="top">
+          <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
         <a target="_blank" href="#">
