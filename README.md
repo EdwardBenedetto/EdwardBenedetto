@@ -69,26 +69,8 @@
       </p>
         <p>Coming soon...</p>
     </td>
-     <td width="50%" valign="top">
-      <h3 align="center">TBD</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="https://i.ibb.co/gvmH47f/TBD.jpg" width="100%" alt="homepage"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Coming soon...</p>
-    </td>
      </tr>
-  <tr>
+    <tr>
       <td width="50%" valign="top">
       <h3 align="center">CollectionCloset</h3>
         <br />
@@ -108,24 +90,6 @@
         <p>Full stack web app to manage personal collections, check market value, buy/sell/interact with other users</p>
     </td>
       <td width="50%" valign="top">
-      <h3 align="center">TBD</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="https://i.ibb.co/gvmH47f/TBD.jpg" width="100%" alt="homepage"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>Coming soon...</p>
-    </td>
-     <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
         <br />
         <a target="_blank" href="#">
