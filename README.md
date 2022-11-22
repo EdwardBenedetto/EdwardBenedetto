@@ -72,22 +72,22 @@
      </tr>
     <tr>
       <td width="50%" valign="top">
-      <h3 align="center">CollectionCloset</h3>
+      <h3 align="center">TBD</h3>
         <br />
-        <a target="_blank" href="https://github.com/EdwardBenedetto/CollectionCloset">
-            <img src="https://i.ibb.co/zxJ253W/1.jpg" width="100%" alt="homepage"/>
+        <a target="_blank" href="#">
+            <img src="https://i.ibb.co/gvmH47f/TBD.jpg" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/EdwardBenedetto/CollectionCloset" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://collectioncloset.up.railway.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Full stack web app to manage personal collections, check market value, buy/sell/interact with other users</p>
+        <p>Coming soon...</p>
     </td>
       <td width="50%" valign="top">
       <h3 align="center">TBD</h3>
