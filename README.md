@@ -53,7 +53,7 @@
     </td>
     
   <td width="50%" valign="top">
-      <h3 align="center">CollectionCloset</h3>
+      <h3 align="center">What Am I Looking At?</h3>
         <br />
         <a target="_blank" href="https://github.com/EdwardBenedetto/CollectionCloset">
             <img src="https://i.ibb.co/zxJ253W/1.jpg" width="100%" alt="homepage"/>
@@ -61,17 +61,16 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/EdwardBenedetto/CollectionCloset" target="_blank">
+  <a href="https://github.com/EdwardBenedetto/ML" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://collectioncloset.up.railway.app/" target="_blank">
+  <a href="https://whatamilookingat.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Project Using Microsoft Azure Cognitive Services to identify the subject of uploaded images</p>
+        <p>IN PROGRESS: Project Using Microsoft Azure Cognitive Services Machine Learning API to identify the subject of uploaded images</p>
     </td>
      </tr>
-
 
 </table>
 
