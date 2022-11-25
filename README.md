@@ -56,7 +56,7 @@
       <h3 align="center">What Am I Looking At?</h3>
         <br />
         <a target="_blank" href="https://github.com/EdwardBenedetto/ML">
-            <img src="https://i.ibb.co/zRSdDhL" width="100%" alt="homepage"/>
+            <img src= "https://i.ibb.co/pz3q5vs/qqq.jpg" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
