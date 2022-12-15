@@ -71,6 +71,45 @@
         <p>Project Using Microsoft Azure Cognitive Services Machine Learning API to identify the subject of uploaded images</p>
     </td>
      </tr>
+    <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Book Buddies</h3>
+        <br />
+        <a target="_blank" href="https://github.com/EdwardBenedetto/CollectionCloset">
+            <img src= "https://i.ibb.co/qFqT0zq/68747470733a2f2f692e6962622e636f2f7a784a323533572f312e6a7067.jpg" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EdwardBenedetto/CollectionCloset" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://collectioncloset.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Coming soon</p>
+    </td>
+    
+  <td width="50%" valign="top">
+      <h3 align="center">TBD</h3>
+        <br />
+        <a target="_blank" href="https://github.com/EdwardBenedetto/ML">
+            <img src= "https://i.ibb.co/qFqT0zq/68747470733a2f2f692e6962622e636f2f7a784a323533572f312e6a7067.jpg" width="100%" alt="homepage"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EdwardBenedetto/ML" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://whatamilookingat.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>Coming soon</p>
+    </td>
+     </tr>
 
 </table>
 
