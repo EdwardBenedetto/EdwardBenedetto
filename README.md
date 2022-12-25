@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Project Using Microsoft Azure Cognitive Services Machine Learning API to identify the subject of uploaded images</p>
+        <p>Tool Using Microsoft Azure Cognitive Services Machine Learning API to identify the subject of uploaded images</p>
     </td>
      </tr>
     <tr>
