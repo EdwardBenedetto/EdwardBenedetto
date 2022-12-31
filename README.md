@@ -75,20 +75,20 @@
       <td width="50%" valign="top">
       <h3 align="center">Book Buddies</h3>
         <br />
-        <a target="_blank" href="https://github.com/EdwardBenedetto/CollectionCloset">
-            <img src= "https://i.ibb.co/qFqT0zq/68747470733a2f2f692e6962622e636f2f7a784a323533572f312e6a7067.jpg" width="100%" alt="homepage"/>
+        <a target="_blank" href="https://github.com/EdwardBenedetto/ClassroomOverview">
+            <img src= "https://i.ibb.co/crZqdvz/2.jpg" width="100%" alt="homepage"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/EdwardBenedetto/CollectionCloset" target="_blank">
+  <a href="https://github.com/EdwardBenedetto/ClassroomOverview" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://collectioncloset.up.railway.app/" target="_blank">
+  <a href="https://bookbuddies.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Coming soon</p>
+        <p>Full stack web app to manage book reviews and share with friends </p>
     </td>
     
   <td width="50%" valign="top">
