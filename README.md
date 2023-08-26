@@ -9,8 +9,6 @@
 
 - 👨‍💻 Selected works available at [edwardbenedetto.com](edwardbenedetto.com)
 
-- ⚡ Fun fact **10 years of NYC fashion experience**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_ebenedetto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ebenedetto" height="30" width="40" /></a>
